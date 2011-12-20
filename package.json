@@ -1,0 +1,19 @@
+{
+	"name": "collections",
+	"description": "A port of DojoX Collections, rewritten to use baseless AMD.",
+	"licenses": [
+		{
+			"type": "AFLv2.1",
+			"url": "http://trac.dojotoolkit.org/browser/dojo/trunk/LICENSE#L43"
+		},
+		{
+			"type": "BSD",
+			"url": "http://trac.dojotoolkit.org/browser/dojo/trunk/LICENSE#L13"
+		}
+	],
+	"bugs": "https://github.com/ttrenka/dojox-packages/issues",
+	"keywords": ["collections"],
+	"homepage": "https://github.com/ttrenka/dojox-packages/collections",
+	"main": "./main",
+	"icon": "http://dojofoundation.org/images/icons/5.png"
+}
