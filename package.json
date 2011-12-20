@@ -11,9 +11,9 @@
 			"url": "http://trac.dojotoolkit.org/browser/dojo/trunk/LICENSE#L13"
 		}
 	],
-	"bugs": "https://github.com/ttrenka/dojox-packages/issues",
+	"bugs": "https://github.com/ttrenka/dx-collections/issues",
 	"keywords": ["collections"],
-	"homepage": "https://github.com/ttrenka/dojox-packages/collections",
+	"homepage": "https://github.com/ttrenka/dx-collections",
 	"main": "./main",
 	"icon": "http://dojofoundation.org/images/icons/5.png"
 }
